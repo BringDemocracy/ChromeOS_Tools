@@ -1,0 +1,8 @@
+Hello, to use this tool, just enable the debugging tool in linux environnement in setting, it only reboot the laptop it will not factory reset the laptop
+and you only need to run those line to install those dependencies in the linux terminal :
+sudo apt install adb
+sudo apt install python3-tk
+
+
+and this one, once you configured apk_installer.desktop move it to the following directory and run this command to make the file executable as an application but you can just run the python program if u prefer 
+chmod +x ~/.local/share/applications/apk_installer.desktop

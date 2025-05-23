@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=APK INSTALLER
+Comment=Sideload an APK on ChromeOS without developper mode
+Exec=python3 /home/ur_username/ChromeOS_Tools/sideload_apk/install_apk_gui.py
+Icon=/home/ur_username/ChromeOS_Tools/sideload_apk/icon_01.png
+Terminal=false
+Type=Application
+Categories=Utility;
